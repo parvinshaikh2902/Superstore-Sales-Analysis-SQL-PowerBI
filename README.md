@@ -24,6 +24,23 @@ This project is an end-to-end Data Analytics project built using SQL and Power B
 - DAX
 
 ---
+## 📷 Dashboard Preview
+
+### Executive Dashboard
+
+![Executive Dashboard](Images/Executive_Dashboard.png)
+
+---
+
+### Sales & Profit Analysis
+
+![Sales & Profit Analysis](Images/Sales_Profit_Analysis.png)
+
+---
+
+### Customer & Product Insights
+
+![Customer & Product Insights](Images/Customer_Product_Insights.png)
 
 ## 📂 Project Workflow
 
@@ -104,5 +121,7 @@ Superstore-Sales-Analysis-SQL-PowerBI
 **Parvin Shaikh**
 
 Aspiring Data Analyst | SQL | Power BI | Excel | Python
+
+
 
 
