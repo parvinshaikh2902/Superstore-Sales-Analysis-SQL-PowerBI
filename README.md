@@ -108,8 +108,10 @@ Superstore-Sales-Analysis-SQL-PowerBI
 ├── SQL/
 │   └── SQL Queries.sql
 │
-├── Images/
-│   └── Dashboard Preview.png
+Images/
+├── Executive_Dashboard.png
+├── Sales_Profit_Analysis.png
+└── Customer_Product_Insights.png
 │
 └── README.md
 ```
